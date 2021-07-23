@@ -22,10 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Screenshot desktop solution
 ![](./screenshots-solutions/screenshot-desktop-solution.PNG)
-
-- Screenshot mobile solution
 ![](./screenshots-solutions/screenshot1-mobile-solution.PNG)
 ![](./screenshots-solutions/screenshot2-mobile-solution.PNG)
 ![](./screenshots-solutions/screenshot3-mobile-solution.PNG)
@@ -33,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution repository](https://github.com/EdisonPadilla/Testimonials-grid-section)
-- Live Site URL: [live site (github page)](https://your-live-site-url.com)
+- Live Site URL: [live site (github page)](https://edisonpadilla.github.io/Testimonials-grid-section/)
 
 ## My process
 
